@@ -1,0 +1,4 @@
+x="vivek"
+
+print(x)
+

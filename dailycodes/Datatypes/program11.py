@@ -1,0 +1,6 @@
+x=10
+name="vivek bhosale"
+
+print(id(x))
+print(id(name))
+
